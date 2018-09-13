@@ -1,3 +1,9 @@
+Personal website made using GatsbyJS using an open-source [theme](https://github.com/LeKoArts/gatsby-starter-portfolio-cara).
+
+See live: [Click here](http://www.anmolbajaj.net)
+
+
+<!-- 
 ![](https://i.imgur.com/hWB1XRO.png)
 
 # Gatsby Starter Portfolio: Cara
@@ -84,15 +90,15 @@ You have multiple options to configure this project.
 module.exports = {
   pathPrefix: '/', // Prefix for all links. If you deploy your site to example.com/portfolio your pathPrefix should be "/portfolio"
 
-  siteTitle: 'Anmol Bajaj', // Navigation and Site Title
-  siteTitleAlt: 'Anmol Bajaj', // Alternative Site title for SEO
+  siteTitle: 'Cara - Gatsby Starter Portfolio', // Navigation and Site Title
+  siteTitleAlt: 'Cara', // Alternative Site title for SEO
   siteUrl: 'https://portfolio-cara.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo-1024.png', // Used for SEO and manifest
   siteDescription: 'Playful & Colorful One-Page website with Parallax effect',
 
   siteFBAppID: '123456789', // Facebook App ID
-  userTwitter: '@anmolbajajnet', // Twitter Username
+  userTwitter: '@cara', // Twitter Username
   ogSiteName: 'cara', // Facebook Site Name
   ogLanguage: 'de_DE', // Facebook Language
 
@@ -134,3 +140,4 @@ import 'typeface-open-sans';
 We use [typefaces](https://github.com/KyleAMathews/typefaces) by Kyle Mathews. Have a look at the repository if you want to install & use other fonts.
 
 You'll also need to configure `fonts` in `tailwind.js` to reflect the changes. You then can use the fonts with `font-sans` and `font-serif`.
+ -->
